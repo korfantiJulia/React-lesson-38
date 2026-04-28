@@ -1,0 +1,16 @@
+.app-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: rgb(142, 44, 182);
+  border: 2px solid rgb(184, 119, 253);
+  border-radius: 8px;
+  background-color: rgb(241, 224, 248);
+  cursor: pointer;
+  width: 300px;
+  align-self: center;
+  margin-bottom: 20px;
+}
+
+.app-button:hover {
+  background-color: rgb(230, 167, 255);
+}
