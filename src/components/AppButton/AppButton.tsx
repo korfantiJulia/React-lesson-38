@@ -1,6 +1,7 @@
 import "./AppButton.css";
 
 type ButtonProps = {
+  className: string;
   text: string;
   type: "button" | "submit";
   onClick: () => void;
